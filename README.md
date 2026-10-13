@@ -1,4 +1,3 @@
-
 <!--
   PEN BORA | GitHub Profile README
   This repository must be named exactly like your GitHub username: penbora97-hash
@@ -9,9 +8,9 @@
 
 <img src="banner.jpg" width="100%" alt="Pen Bora - Software Engineering and Full Stack Development Banner" />
 
-<h1>I'm Pen Bora</h1>
+<h1>Hey, I'm Pen Bora</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer+in+Progress;Frontend+%7C+Backend+%7C+UI%2FUX;Building+Ideas+Into+Reality" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering;Full+Stack+Developer;Frontend+%7C+Backend+%7C;Building+Ideas+Into+Reality" alt="Animated typing introduction" />
 
 <p><b>Software Engineering Student · Full Stack Developer · 📍 Cambodia</b></p>
 
@@ -43,10 +42,24 @@ const bora = {
 };
 ```
 
-- 🔭 Building personal projects and real-world web applications
-- 🌱 Strengthening my frontend and backend skills side by side
-- 🧠 Interested in clean code, problem-solving, and software architecture
-- 💬 Happy to chat about web development and programming
+<table>
+  <tr>
+    <td width="40"><img src="https://img.icons8.com/fluency/48/rocket.png" width="28" alt="" /></td>
+    <td>Building personal projects and real-world web applications</td>
+  </tr>
+  <tr>
+    <td width="40"><img src="https://img.icons8.com/fluency/48/code.png" width="28" alt="" /></td>
+    <td>Strengthening my frontend and backend skills side by side</td>
+  </tr>
+  <tr>
+    <td width="40"><img src="https://img.icons8.com/fluency/48/idea.png" width="28" alt="" /></td>
+    <td>Interested in clean code, problem-solving, and software architecture</td>
+  </tr>
+  <tr>
+    <td width="40"><img src="https://img.icons8.com/fluency/48/speech-bubble.png" width="28" alt="" /></td>
+    <td>Happy to chat about web development and programming</td>
+  </tr>
+</table>
 
 ---
 
@@ -68,11 +81,13 @@ const bora = {
 
 ## `$ featured-projects`
 
-| Project | Description | Tech | Link |
-| --- | --- | --- | --- |
-| 🎵 **Music Web App** | Browse and play music with a clean, user-friendly interface and routing | React, Tailwind CSS | [Live Demo](https://play-music-blue-one.vercel.app/) |
-| 🍔 **Food & Drinks E-commerce** | Browse food and drink categories with full shopping cart management | React, Tailwind CSS, Context API | [Live Demo](https://tos-eat-swart.vercel.app/) |
-| 🌐 **Personal Portfolio** | Showcase of my skills, experience, and projects in a responsive layout | React, Tailwind CSS | _Coming soon_ |
+| Project | Type | Description | Tech | Link |
+| --- | --- | --- | --- | --- |
+| 🎵 **Music** | Frontend | Browse and play music with a clean, user-friendly interface and routing | React, Tailwind CSS | [Live Demo](https://play-music-blue-one.vercel.app/) |
+| 🎧 **iMusic** | Full Stack (Frontend + Backend) | A full music platform with a user interface and a backend that powers the data and features | React, Tailwind CSS, Backend API | [Live Demo](https://imusic-hub.vercel.app/) |
+| 🍔 **Food & Drinks E-commerce** | Frontend | Browse food and drink categories with full shopping cart management | React, Tailwind CSS, Context API | [Live Demo](https://tos-eat-swart.vercel.app/) |
+| 🌐 **Personal Portfolio** | Full Stack (Frontend + Backend) | Showcase of my skills, experience, and projects in a responsive layout, powered by a backend | React, Tailwind CSS, Backend API | [Live Demo](https://portfolio-fd-qdtr.vercel.app/) |
+
 
 ---
 
