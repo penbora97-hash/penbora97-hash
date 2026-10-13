@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="បដា_បច្ចេកវិទ្យា_អនាគត PEN BORA.png" width="100%" alt="Pen Bora - Software Engineering and Full Stack Development Banner" />
+<img src="banner.jpg" width="100%" alt="Pen Bora - Software Engineering and Full Stack Development Banner" />
 
 <h1>I'm Pen Bora</h1>
 
