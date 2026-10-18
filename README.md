@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="banner.jpg" width="100%" alt="Pen Bora - Software Engineering and Full Stack Development Banner" />
+
 
 <h1>Hey, I'm Pen Bora</h1>
 
